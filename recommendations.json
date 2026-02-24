@@ -1,0 +1,30 @@
+[
+  {
+    "fruit": "Plum",
+    "family": "Rosaceae",
+    "genus": "Prunus",
+    "goal": "Weight Loss",
+    "nutritions": {
+      "calories": 46,
+      "fat": 0.28,
+      "sugar": 9.92,
+      "carbohydrates": 11.4,
+      "protein": 0.7
+    },
+    "servings": 1
+  },
+  {
+    "fruit": "Strawberry",
+    "family": "Rosaceae",
+    "genus": "Fragaria",
+    "goal": "Saved",
+    "nutritions": {
+      "calories": 29,
+      "fat": 0.4,
+      "sugar": 5.4,
+      "carbohydrates": 5.5,
+      "protein": 0.8
+    },
+    "servings": 1
+  }
+]
